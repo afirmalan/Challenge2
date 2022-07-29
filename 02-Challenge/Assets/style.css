@@ -1,0 +1,50 @@
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
+#header {
+    border-bottom: 2px black solid;
+    background-color: gray;
+    color: aqua;
+    padding: 60px;
+    font-size: xx-large;
+}
+#nav {
+    float: right;
+    border: 10px;
+    font-size: x-large;
+}
+#aboutMe {
+    border-right: 3px black solid;
+    padding: 60px;
+    padding-left: 10px;
+}
+#aboutMe1 {
+    border-right :2px black solid;
+    justify-self: start;
+    padding: 60px;
+    size: 10px;
+    margin-left: 1px;
+
+}
+#bio {
+    justify-content: start;
+    padding: 60px;
+    padding-left: 10px;
+}
+#works {
+    border: 2px black solid;
+    padding: 60px;
+    padding-left: 10px;
+}
+#contact {
+    border: 2px black solid;
+    padding: 60px;
+    padding-left: 10px;
+}
+#contact1 {
+    border: 10px;
+    float: right;
+}
